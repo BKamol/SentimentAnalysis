@@ -1,0 +1,1 @@
+This app allows you to extract sentiment from text. Check [it](https://sentimentanalysis-kxntmcmu27hdaodtmuwsmn.streamlit.app/) out! It is also multipage app, where you can find two other models from sidebar.
